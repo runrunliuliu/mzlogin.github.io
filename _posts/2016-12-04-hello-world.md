@@ -1,9 +1,9 @@
 ---
 layout: post
-title: template page
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+title: Hello Word
+categories: [量化, 交易]
+description: 交易心得
+keywords: 量化
 ---
 
-Content here
+正式在此记录自己的量化交易心得，期待结交有缘人！
